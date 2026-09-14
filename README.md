@@ -128,22 +128,28 @@ Animated 3D web experiences in React + Three.js, extended into shipped desktop a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Methyldioxymethamphetamine&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=14400&v=2" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=Methyldioxymethamphetamine&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Methyldioxymethamphetamine&layout=compact&langs_count=8&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=14400&v=2" alt="top languages" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Methyldioxymethamphetamine&bg_color=0d1117&color=38BDF8&line=38BDF8&point=f97316&area=true&hide_border=true&v=2" alt="activity graph" />
+<img height="180" src="https://streak-stats.demolab.com?user=Methyldioxymethamphetamine&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
 
 </div>
 
-## 🏆 &nbsp;Trophies
+<!-- ───────────────────────────────────────────────────────────────────────────
+  DISABLED: stats card, top languages, activity graph and trophies.
 
-<div align="center">
+  These four ran on shared public instances that are permanently over their
+  free Vercel quota, so they rendered as broken images. To bring them back,
+  deploy your OWN copies (each repo has a one-click "Deploy to Vercel" button
+  in its README), then paste your deployment host in place of the *.vercel.app
+  host below and delete these comment markers.
 
-<img src="https://github-profile-trophy.vercel.app/?username=Methyldioxymethamphetamine&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&v=2" alt="trophies" />
+    stats + top languages -> github.com/anuraghazra/github-readme-stats
+    trophies              -> github.com/ryo-ma/github-profile-trophy
+    activity graph        -> github.com/Ashutosh00710/github-readme-activity-graph
 
-</div>
+<img height="165" src="https://YOUR-DEPLOY.vercel.app/api?username=Methyldioxymethamphetamine&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+<img height="165" src="https://YOUR-DEPLOY.vercel.app/api/top-langs/?username=Methyldioxymethamphetamine&layout=compact&langs_count=8&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" alt="top languages" />
+<img width="98%" src="https://YOUR-DEPLOY.vercel.app/graph?username=Methyldioxymethamphetamine&bg_color=0d1117&color=38BDF8&line=38BDF8&point=f97316&area=true&hide_border=true" alt="activity graph" />
+<img src="https://YOUR-DEPLOY.vercel.app/?username=Methyldioxymethamphetamine&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+─────────────────────────────────────────────────────────────────────────── -->
 
 ## 🐍 &nbsp;Contribution Snake
 
