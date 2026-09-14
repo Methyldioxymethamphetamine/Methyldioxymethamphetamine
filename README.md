@@ -20,7 +20,7 @@
 
 </div>
 
-## 👨‍💻 &nbsp;About
+## &nbsp;About
 
 ```yaml
 name:      Dushyant Nanwatkar
@@ -33,13 +33,13 @@ speaks:    English · हिन्दी · मराठी · 日本語 (JLPT N
 motto:     "make it run offline, make it run fast"
 ```
 
-- 🧠 &nbsp;I build **agentic systems** — local LLMs that touch real files, real databases, real shells.
-- 🐧 &nbsp;Most of my work ends up as **Linux automation** with something intelligent behind it.
-- 🏗️ &nbsp;I care about the unglamorous part: **schemas, caching, concurrency, uptime.**
-- 🧪 &nbsp;Currently reverse-engineering **transformer internals** by rebuilding them line by line.
-- 🤝 &nbsp;Open to collaborating on **AI agents, LLM tooling and backend infrastructure.**
+- &nbsp;I build **agentic systems** — local LLMs that touch real files, real databases, real shells.
+- &nbsp;Most of my work ends up as **Linux automation** with something intelligent behind it.
+- &nbsp;I care about the unglamorous part: **schemas, caching, concurrency, uptime.**
+- &nbsp;Currently reverse-engineering **transformer internals** by rebuilding them line by line.
+- &nbsp;Open to collaborating on **AI agents, LLM tooling and backend infrastructure.**
 
-## 🛠️ &nbsp;Tech Stack
+## &nbsp;Tech Stack
 
 <div align="center">
 
@@ -65,13 +65,13 @@ motto:     "make it run offline, make it run fast"
 
 </div>
 
-## 🚀 &nbsp;Featured Projects
+## &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Local AI System Agent
+### Local AI System Agent
 An **offline** Linux agent powered by local DeepSeek / GLM 12B models. Understands plain English, then actually does it — runs commands, queries databases, invokes tools.
 
 `Agents` `Local LLMs` `Linux` `Tool Calling`
@@ -79,7 +79,7 @@ An **offline** Linux agent powered by local DeepSeek / GLM 12B models. Understan
 </td>
 <td width="50%" valign="top">
 
-### 🕵️ Anonymous AI Recruitment Platform
+### Anonymous AI Recruitment Platform
 Agentic hiring pipeline that analyses applications while **stripping candidate identity** — reducing bias by design, not by policy.
 
 `AI Agents` `Privacy` `Automation`
@@ -89,7 +89,7 @@ Agentic hiring pipeline that analyses applications while **stripping candidate i
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ Scalable College ERP
+### Scalable College ERP
 Centralised platform for students, faculty and campus logistics. Role-based workflows built for **high concurrency**.
 
 `Backend` `PostgreSQL` `Caching` `Scalability`
@@ -97,7 +97,7 @@ Centralised platform for students, faculty and campus logistics. Role-based work
 </td>
 <td width="50%" valign="top">
 
-### 📐 C++ Graphics Calculator
+### C++ Graphics Calculator
 Terminal-native graphing calculator written from scratch — custom expression evaluation and command-line rendering, **no libraries**.
 
 `C++` `Algorithms` `Rendering`
@@ -107,7 +107,7 @@ Terminal-native graphing calculator written from scratch — custom expression e
 <tr>
 <td width="50%" valign="top">
 
-### 💬 ML Sentiment Analyzer
+### ML Sentiment Analyzer
 Classical NLP pipeline end to end: preprocessing → feature extraction → training → prediction.
 
 `Machine Learning` `NLP` `scikit-learn`
@@ -115,7 +115,7 @@ Classical NLP pipeline end to end: preprocessing → feature extraction → trai
 </td>
 <td width="50%" valign="top">
 
-### 🌐 3D Interactive Web Platform · *Freelance*
+### 3D Interactive Web Platform · *Freelance*
 Animated 3D web experiences in React + Three.js, extended into shipped desktop applications.
 
 `React` `Three.js` `WebGL`
@@ -124,7 +124,7 @@ Animated 3D web experiences in React + Three.js, extended into shipped desktop a
 </tr>
 </table>
 
-## 📊 &nbsp;GitHub Stats
+## &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -151,7 +151,7 @@ Animated 3D web experiences in React + Three.js, extended into shipped desktop a
 <img src="https://YOUR-DEPLOY.vercel.app/?username=Methyldioxymethamphetamine&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 ─────────────────────────────────────────────────────────────────────────── -->
 
-## 🐍 &nbsp;Contribution Snake
+## &nbsp;Contribution Snake
 
 <div align="center">
 
@@ -165,7 +165,7 @@ Animated 3D web experiences in React + Three.js, extended into shipped desktop a
 
 <div align="center">
 
-### 💬 &nbsp;Let's build something
+### &nbsp;Let's build something
 
 Open to **internships, research collaborations and hard backend/AI problems.**
 
