@@ -20,8 +20,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
-
 ## 👨‍💻 &nbsp;About
 
 ```yaml
@@ -40,8 +38,6 @@ motto:     "make it run offline, make it run fast"
 - 🏗️ &nbsp;I care about the unglamorous part: **schemas, caching, concurrency, uptime.**
 - 🧪 &nbsp;Currently reverse-engineering **transformer internals** by rebuilding them line by line.
 - 🤝 &nbsp;Open to collaborating on **AI agents, LLM tooling and backend infrastructure.**
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -68,8 +64,6 @@ motto:     "make it run offline, make it run fast"
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,nginx,linux,bash,git&theme=dark" alt="infra" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
 
 ## 🚀 &nbsp;Featured Projects
 
@@ -130,8 +124,6 @@ Animated 3D web experiences in React + Three.js, extended into shipped desktop a
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
-
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
@@ -145,8 +137,6 @@ Animated 3D web experiences in React + Three.js, extended into shipped desktop a
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
-
 ## 🏆 &nbsp;Trophies
 
 <div align="center">
@@ -154,8 +144,6 @@ Animated 3D web experiences in React + Three.js, extended into shipped desktop a
 <img src="https://github-profile-trophy.vercel.app/?username=Methyldioxymethamphetamine&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&v=2" alt="trophies" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
 
 ## 🐍 &nbsp;Contribution Snake
 
@@ -169,8 +157,6 @@ Animated 3D web experiences in React + Three.js, extended into shipped desktop a
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
-
 <div align="center">
 
 ### 💬 &nbsp;Let's build something
@@ -182,7 +168,5 @@ Open to **internships, research collaborations and hard backend/AI problems.**
 <br/><br/>
 
 <i>"make it run offline, make it run fast"</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" alt="footer" />
 
 </div>
