@@ -20,7 +20,7 @@
 
 </div>
 
-## &nbsp;About
+## ❖ &nbsp;About
 
 ```yaml
 name:      Dushyant Nanwatkar
@@ -39,7 +39,7 @@ motto:     "make it run offline, make it run fast"
 - &nbsp;Currently reverse-engineering **transformer internals** by rebuilding them line by line.
 - &nbsp;Open to collaborating on **AI agents, LLM tooling and backend infrastructure.**
 
-## &nbsp;Tech Stack
+## ❖ &nbsp;Tech Stack
 
 <div align="center">
 
@@ -65,7 +65,7 @@ motto:     "make it run offline, make it run fast"
 
 </div>
 
-## &nbsp;Featured Projects
+## ❖ &nbsp;Featured Projects
 
 <table>
 <tr>
@@ -124,7 +124,7 @@ Animated 3D web experiences in React + Three.js, extended into shipped desktop a
 </tr>
 </table>
 
-## &nbsp;GitHub Stats
+## ❖ &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -151,7 +151,7 @@ Animated 3D web experiences in React + Three.js, extended into shipped desktop a
 <img src="https://YOUR-DEPLOY.vercel.app/?username=Methyldioxymethamphetamine&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 ─────────────────────────────────────────────────────────────────────────── -->
 
-## &nbsp;Contribution Snake
+## ❖ &nbsp;Contribution Snake
 
 <div align="center">
 
@@ -165,7 +165,7 @@ Animated 3D web experiences in React + Three.js, extended into shipped desktop a
 
 <div align="center">
 
-### &nbsp;Let's build something
+### ❖ &nbsp;Let's build something
 
 Open to **internships, research collaborations and hard backend/AI problems.**
 
